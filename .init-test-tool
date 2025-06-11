@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/weatherwatch-24004-7f272743/weatherwatch_frontend"
+}
